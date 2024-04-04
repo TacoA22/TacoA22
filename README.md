@@ -56,5 +56,8 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/>
 
 ---
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20TacoA22%20&theme=midnight-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+</p>
 
 
