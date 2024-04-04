@@ -11,7 +11,7 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   -->
   <li>🔭 I started in this big world 2 years ago and I loved them. I don't know everything but but my curiosity helps me in that.</li>
   <li>🌱 I’m currently learning programming (languages like JAVA and JS) and Cybersecurity.</li>
-  <li>🤔 My favorite Linux distribution is FEDORA <3, but for convenience when programming, the distribution I use the most is UBUNTU</li>
+  <li>🤔 My favorite Linux distribution is FEDORA <3, but for convenience when programming, the distribution I use the most is UBUNTU.</li>
   <li>📫 How to reach me:</li>
   <p>¡Click here!</p>
   <a title="MyInstagram" href="https://www.instagram.com/tortahack/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Insta.png" alt="MyInstagram" width="35" height="35"/></a>
