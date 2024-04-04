@@ -17,4 +17,44 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <a title="MyInstagram" href="https://www.instagram.com/tortahack/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Insta.png" alt="MyInstagram" width="35" height="35"/></a>
 </div>
 
+## Programming languages
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
+</div> 
+
+## OS 
+### FEDORA lover ❤️
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
+</div>
+
+### Most used 
+<div>
+  
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Kali" alt="Kali" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
+</div>
+
+### Less used
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
+
+## IDEs
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/> 
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/>
+  
+</div>
+
+## Other tools
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/>
+
+---
+
 
