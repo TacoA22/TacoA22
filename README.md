@@ -58,6 +58,14 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
 ---
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20TacoA22%20&theme=midnight-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+  
+</p>
+
+---
+
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=TacoA22&theme=midnight-purple&show_icons=true">
+  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacoA22&layout=compact&theme=midnight-purple">
 </p>
 
 
