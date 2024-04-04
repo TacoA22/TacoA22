@@ -60,6 +60,9 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20TacoA22%20&theme=midnight-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
   
 </p>
+<!--
+## Favorite repositories
+-->
 
 ---
 
@@ -68,4 +71,13 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacoA22&layout=compact&theme=midnight-purple">
 </p>
 
+---
 
+<!--
+## Favorite repositories
+<div>
+  <p>
+      <a title="Tulo del repo" href="https://github.com/TacoA22"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacoA22&theme=midnight-purple&&show_icons=true&repo=nombredelrepo"></a>
+  </p>
+</div>
+-->
