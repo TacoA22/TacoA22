@@ -17,6 +17,8 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <a title="MyInstagram" href="https://www.instagram.com/tortahack/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Insta.png" alt="MyInstagram" width="35" height="35"/></a>
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## Programming languages
 <div>
   
@@ -72,6 +74,13 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
 </p>
 
 ---
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!--
 ## Favorite repositories
