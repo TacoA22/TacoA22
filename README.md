@@ -26,7 +26,7 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
 </div> 
 
-## OS 
+## <picture><img src = "https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/OS.gif" width = 50px></picture> OS 
 ### FEDORA lover ❤️
 <div>
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
@@ -40,8 +40,10 @@ Hi, I`m "Chelas" and I like the world of GNU Linux, but I'm just a beginner lear
 </div>
 
 ### Less used
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/>
+</div>
 
 ## IDEs
 <div>
